@@ -12,10 +12,8 @@
 - [Features](#features)
 - [Technical Details](#technical-details)
 - [Class Overview](#class-overview)
-- [Screenshots](#screenshots)
 - [Installation & Run](#installation--run)
 - [Future Improvements](#future-improvements)
-- [Author](#author)
 
 ---
 
